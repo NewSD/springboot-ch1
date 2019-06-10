@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-//开启自动化配置和包扫描
+//开启自动化配置和包扫描 GitHub上修改
 //@SpringBootApplication=@EnableAutoConfiguration + @ComponentScan
 public class SpringbootCh1Application {
 
