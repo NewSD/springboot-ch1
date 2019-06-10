@@ -8,8 +8,8 @@ import java.util.List;
 /**
  * Created by ami on 2019/6/10.
  */
-@Component
-@ConfigurationProperties(prefix = "my")
+//@Component
+//@ConfigurationProperties(prefix = "my")
 public class User {
     private String name;
     private String address;

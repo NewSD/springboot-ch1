@@ -7,9 +7,15 @@ server:
 
 
 my:
-  name: 江南一点雨
-  address: China
-  favorites:
-    - 足球
-    - 徒步
-    - Coding
+  users:
+    - name: 江南一点雨
+      address: China
+      favorites:
+        - 足球
+        - 徒步
+        - Coding
+    - name: sang
+      address: GZ
+      favorites:
+       - 阅读
+       - 吉他
